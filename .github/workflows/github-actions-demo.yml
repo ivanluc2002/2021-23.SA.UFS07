@@ -25,3 +25,4 @@ jobs:
           cd progetto-frontend-tatakae
           nvm install
           nvm use
+          npm install
