@@ -22,7 +22,7 @@ jobs:
           ls ${{ github.workspace }}
       - run: echo "🍏 This job's status is ${{ job.status }}."
       - name: Install NVM
-        working-directory: progetto-frontend-vanilla
+        working-directory: progettofrontendvanilla
         run: |
           curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
           export NVM_DIR="$HOME/.nvm"
