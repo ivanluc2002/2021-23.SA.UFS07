@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [7.0.0](https://github.com/ivanluc2002/2021-23.SA.UFS07/compare/v6.0.1...v7.0.0) (2022-05-10)
+
+
+### ⚠ BREAKING CHANGES
+
+* 
+
+### Features
+
+* surge sh ([c5d3824](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/c5d3824201687335991edde7b9bb553a4d34f005))
+
 ### [6.0.1](https://github.com/ivanluc2002/2021-23.SA.UFS07/compare/v6.0.0...v6.0.1) (2022-05-10)
 
 ## [6.0.0](https://github.com/ivanluc2002/2021-23.SA.UFS07/compare/v5.0.3...v6.0.0) (2022-05-10)
