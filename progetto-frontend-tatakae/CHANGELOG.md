@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/jimwellf/2021-23.SA.UFS07/compare/v1.1.1...v1.2.0) (2022-05-10)
+
+
+### Features
+
+* deploy on surge ([d036b45](https://github.com/jimwellf/2021-23.SA.UFS07/commit/d036b45fae170e6c313e451ef38bbbf2ef9e2163))
+
 ### [1.1.1](https://github.com/jimwellf/2021-23.SA.UFS07/compare/v1.1.0...v1.1.1) (2022-05-10)
 
 
