@@ -24,7 +24,7 @@ function App() {
           <img class="animate-ping" src={music} size="100x100" alt="Logo" />;
         </div>
         <div>
-          <h1>Welcome to NorthBy</h1>
+          <h1 class="transition-colors duration-500 bg-red-700 hover:bg-blue-400 ">Welcome to NorthBy</h1>
           <h2>A premium in sight and sound</h2>
           <button>Learn More</button>
         </div>
@@ -42,7 +42,7 @@ function App() {
         <div class="mx-4 self-center">
           <h1>GANG</h1>
           <h2>WE BRO</h2>
-          <button>SCHIACCIA QUA BRO</button>
+          <button >SCHIACCIA QUA BRO</button>
         </div>
       </div>
 
