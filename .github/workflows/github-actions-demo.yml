@@ -32,7 +32,7 @@ jobs:
           nvm install
           nvm use
       - name: Build
-        working-directory: progetto-frontend-vanilla
+        working-directory: progettofrontendvanilla
         run: |
           npm install
           npm run build
