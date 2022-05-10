@@ -1,6 +1,6 @@
 {
   "name": "1-devops-with-nodejs",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "engines": {
     "npm": "8.5.5",
     "node": "16.15.0"
@@ -9,7 +9,7 @@
   "scripts": {
     "build": "webpack build --mode production",
     "dev": "webpack serve --mode development",
-    "release":"standard-version"
+    "release": "standard-version"
   },
   "author": "",
   "license": "ISC",
