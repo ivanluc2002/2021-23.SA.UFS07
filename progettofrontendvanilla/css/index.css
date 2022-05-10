@@ -12,6 +12,7 @@ body {
   hsl(45deg 100% 50%) 89%,
   hsl(55deg 100% 50%) 100%
 );
+background-attachment: fixed;
 }
 
 h1 {
