@@ -20,3 +20,4 @@ jobs:
           ls -la
           ls -la dist
           cat dist/CHANGELOG.md
+          
