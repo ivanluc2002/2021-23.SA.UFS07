@@ -24,7 +24,7 @@ h1 {
   height: 300px;
   display: grid;
   grid-template-columns: 1,1;
-  background-image: url("img/sun.png");
+  background-image: url("https://github.com/ivanluc2002/2021-23.SA.UFS07/blob/2779529824f02956f9f0a2ca48d2460100afb36c/progettofrontendvanilla/img/hamburger.jpg");
   background-size: cover;
 }
 .img1{
