@@ -1,7 +1,7 @@
 name: Deploy on Surge.sh
 on:
   push:
-    tags:
+    # tags:
       # - v** # comment this to run on every push for debuggin purposes
 jobs:
   build:
