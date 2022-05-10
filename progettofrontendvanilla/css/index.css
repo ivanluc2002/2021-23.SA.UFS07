@@ -23,7 +23,7 @@ h1 {
   width: 300px;
   height: 300px;
   display: grid;
-  grid: 200px / auto auto auto;
+  grid: 150px / auto auto auto;
   background-image: url("sun.png");
   background-size: cover;
 }
