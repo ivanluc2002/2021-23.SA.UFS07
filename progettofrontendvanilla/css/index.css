@@ -24,7 +24,7 @@ h1 {
   height: 300px;
   display: grid;
   grid-template-columns: auto;
-  background-image: url("/home/ivanoski/2021-23.SA.UFS07/progettofrontendvanilla/img/hamburger.jpg");
+  background-image: url("hamburger.jpg");
   background-size: cover;
 }
 .img{
