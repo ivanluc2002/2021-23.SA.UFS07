@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [13.0.0](https://github.com/ivanluc2002/2021-23.SA.UFS07/compare/v12.0.1...v13.0.0) (2022-05-10)
+
+
+### ⚠ BREAKING CHANGES
+
+* 
+
+### Features
+
+* feat ([33d28d3](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/33d28d3a33d4278b3aec0771c6ad1c9df1c1f2fc))
+
 ### [12.0.1](https://github.com/ivanluc2002/2021-23.SA.UFS07/compare/v12.0.0...v12.0.1) (2022-05-10)
 
 ## [12.0.0](https://github.com/ivanluc2002/2021-23.SA.UFS07/compare/v11.0.1...v12.0.0) (2022-05-10)
