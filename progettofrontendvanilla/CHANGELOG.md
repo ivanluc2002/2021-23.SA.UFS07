@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [9.0.0](https://github.com/ivanluc2002/2021-23.SA.UFS07/compare/v8.0.0...v9.0.0) (2022-05-10)
+
+
+### ⚠ BREAKING CHANGES
+
+* 
+
+### Features
+
+* feat ([2779529](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/2779529824f02956f9f0a2ca48d2460100afb36c))
+
 ## 8.0.0 (2022-05-10)
 
 
