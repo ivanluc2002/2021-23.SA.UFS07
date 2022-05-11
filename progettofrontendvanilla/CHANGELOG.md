@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [15.0.3](https://github.com/ivanluc2002/2021-23.SA.UFS07/compare/v15.0.2...v15.0.3) (2022-05-11)
+
+
+### Bug Fixes
+
+* deploy ([5dd6c9f](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/5dd6c9f19e5d6af78d423c3c39ff5f5329346192))
+
 ### [15.0.2](https://github.com/ivanluc2002/2021-23.SA.UFS07/compare/v15.0.1...v15.0.2) (2022-05-10)
 
 ### [15.0.1](https://github.com/ivanluc2002/2021-23.SA.UFS07/compare/v15.0.0...v15.0.1) (2022-05-10)
