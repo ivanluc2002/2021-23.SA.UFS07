@@ -16,7 +16,7 @@ function backgroundChange(){
    
     d=Math.floor(Math.random() * 2)+1;
     if (d==1){
-        document.getElementById("body").style.background=a;
+        document.getElementById("body1").style.background=a;
     }
     if (d==2){
         document.getElementById("body").style.background=b;
