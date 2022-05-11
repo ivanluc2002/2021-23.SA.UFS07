@@ -25,4 +25,4 @@ function backgroundChange(){
         document.getElementById("body").style.background=c;
     }
 }
-window.backgroundChange = backgroundChange;
+window.onClickAlert = backgroundChange;
