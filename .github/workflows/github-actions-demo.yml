@@ -39,7 +39,7 @@ jobs:
           CHROMATIC_PROJECT_TOKEN: ${{ secrets.CHROMATIC_PROJECT_TOKEN  }}
         run: |
           npm install
-          npx chromatic --force-rebuild --project-token=$CHROMATIC_PROJECT_TOKEN
+          npx -yes chromatic --force-rebuild
       - name: Build static storybook
         working-directory: design-system/react
         run: |
