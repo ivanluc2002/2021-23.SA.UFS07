@@ -38,6 +38,11 @@ jobs:
         run: |
           npm install
           npx chromatic --force-rebuild
+      - name: Build static storybook
+        working-directory: design-system/react
+        run: |
+          npm run build-storybook
+          cp -R storybook-static ../../progetto-frontend-tatakae/dist/storybook-static
       - name: Upload the artifact
         uses: actions/upload-artifact@v2
         with:
