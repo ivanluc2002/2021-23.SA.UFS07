@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [16.0.1](https://github.com/ivanluc2002/2021-23.SA.UFS07/compare/v16.0.0...v16.0.1) (2022-05-13)
+
+
+### Bug Fixes
+
+* js ([6f698df](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/6f698dfdaeb8fe9444228657eac3b4f4c98152be))
+
 ## 16.0.0 (2022-05-13)
 
 
