@@ -20,3 +20,4 @@ function onClickAlert() {
         document.getElementById("body").style.background=c;
     }
 }
+window.onClickAlert=onClickAlert;
