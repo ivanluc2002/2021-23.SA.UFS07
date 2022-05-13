@@ -35,6 +35,8 @@ jobs:
           npm run build
       - name: Chromatic design-system-react
         working-directory: design-system/react
+        env: 
+          CHROMATIC_PROJECT_TOKEN: ${{ secrets.CHROMATIC_PROJECT_TOKEN  }}
         run: |
           npm install
           npx chromatic --force-rebuild
