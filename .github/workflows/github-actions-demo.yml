@@ -36,6 +36,11 @@ jobs:
         run: |
           npm install
           npm run build
+      - name: Chromatic design-system-react
+        working-directory: design-system/react
+        run:
+          npm intsall
+          npx chromatic --force-rebuid
       - name: Upload the artifact
         uses: actions/upload-artifact@v2
         with:
