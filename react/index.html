@@ -7,19 +7,26 @@
 
     <script src="https://unpkg.com/react@16.14.0/umd/react.production.min.js"></script>
     <script src="https://unpkg.com/react-dom@16.13.0/umd/react-dom.production.min.js"></script>
+<<<<<<< HEAD
+=======
+    <script src="https://unpkg.com/babel-standalone@6.26.0/babel.js"></script>
+>>>>>>> 33bca6d... feat(react-101): React JSX
   </head>
 
   <body>
     <h1>React 101</h1>
     <div id="reactContainer"></div>
 
-    <script type="text/javascript">
+    <script type="text/babel">
         class Hello extends React.Component {
             render() {
-                return React.createElement('div', null, `toWhat: ${this.props.toWhat}`);
+                return (
+                    <div>{`toWhat: ${this.props.toWhat}`}</div>
+                );
             }
         }
 
+<<<<<<< HEAD
         var aReactDivProps = {
             toWhat: 'prop value'
         };
@@ -33,6 +40,12 @@
         ReactDOM.render(
             aReactDiv, // a react component
             reactContainer // the react container
+=======
+        var reactContainer = document.getElementById("reactContainer");
+        ReactDOM.render(
+            <Hello toWhat={'prop value'} />,
+            reactContainer
+>>>>>>> 33bca6d... feat(react-101): React JSX
         );
     </script>
   </body>
