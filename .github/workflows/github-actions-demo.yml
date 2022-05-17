@@ -23,34 +23,29 @@ jobs:
         run: |
           ls ${{ github.workspace }}
       - run: echo "🍏 This job's status is ${{ job.status }}."
-      - name: nvm setup
+      - name: Install NVM
+        working-directory: progettofrontendvanilla
         run: |
           curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
           export NVM_DIR="$HOME/.nvm"
-          [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"
-          [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"
+          [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+          [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
           nvm --version
-          cd progetto-frontend-tatakae
           nvm install
           nvm use
+      - name: Build
+        working-directory: progettofrontendvanilla
+        run: |
           npm install
           npm run build
       - name: Chromatic design-system-react
         working-directory: design-system/react
-        env: 
-          CHROMATIC_PROJECT_TOKEN: ${{ secrets.CHROMATIC_PROJECT_TOKEN }}
-        run: |
+        run:
           npm install
-          npx -yes chromatic --force-rebuild
-      - name: Build static storybook
-        working-directory: design-system/react
-        run: |
-          npm run build-storybook
-          cp -R storybook-static ../../progetto-frontend-tatakae/dist/storybook-static
+          npx chromatic --force-rebuid
       - name: Upload the artifact
         uses: actions/upload-artifact@v2
         with:
-          name: artefatto
-          path: ./progetto-frontend-tatakae/dist/
-
-
+          name: ${{github.ref_name}}-${{ github.sha }}
+          path: ./progettofrontendvanilla/dist/
+      
