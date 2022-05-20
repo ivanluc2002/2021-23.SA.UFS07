@@ -6,7 +6,7 @@ function onClickAlert() {
     alert(`${new Date()}`);
     var a="red";
     var b="blue";
-    var c="blue";
+    var c="green";
     var d=0;
    
     d=Math.floor(Math.random() * 2)+1;
