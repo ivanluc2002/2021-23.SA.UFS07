@@ -9,7 +9,7 @@ function onClickAlert() {
     var c="green";
     var d=0;
    
-    d=Math.floor(Math.random() * 2)+1;
+    d=Math.floor(Math.random() * 3)+1;
     if (d==1){
         document.getElementById("body1").style.background=a;
     }
