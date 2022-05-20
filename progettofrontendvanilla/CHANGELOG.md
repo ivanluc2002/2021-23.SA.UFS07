@@ -2,6 +2,117 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [16.0.0](https://github.com/ivanluc2002/2021-23.SA.UFS07/compare/v1.3.8...v16.0.0) (2022-05-20)
+
+
+### Features
+
+* add sb ([b33df09](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/b33df09fc82204da34ef30c98f9c61263f12caca))
+* feat ([4f25979](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/4f2597948b29cde83087a9edcfe3c4a33eb9ca68))
+* **react-101:** react jsx ([be05795](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/be057950ee016b52bf7162b8887e870aca231ac9))
+* **react-101:** React JSX ([52c330a](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/52c330a603a2659b838ccba2cfceb8c130296001))
+* **react-101:** react no jsx sample ([ac5544a](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/ac5544a513920c4f4df593d8e81770ca366c0db1))
+* **react-101:** react no jsx sample ([7f3e14c](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/7f3e14cc276b195d61b1d20c938730766fc1a27e))
+* **react-101:** react rendertostaticmarkup ([e1f954c](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/e1f954c0e789b33f72ce0d36f90ab5b45d9f5c08))
+* **react-101:** React renderToStaticMarkup ([0a1befe](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/0a1befe48634c487a14771034354c933d15f3457))
+* **react-101:** react.component ([568c5d7](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/568c5d701e99a6f15e3044a249b7b5513fa50098))
+* **react-101:** React.Component ([990c97c](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/990c97c117aa5675ac48c43782247a2622b1ab47))
+* **react-101:** readme ([26383d8](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/26383d8ae68fc3fd53b101557748091bf3004c74))
+* **react-101:** README ([643c917](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/643c917c7f202be03d5b038da98b3b290485564c))
+* **react-101:** simple html boilerplate ([172e039](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/172e03910b0e241cf7b6d1b0137a05514cd8cdf2))
+* **react-101:** simple html boilerplate ([be9f113](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/be9f113fcb07497da5ce6e695d5e380a5a794f2c))
+* reset ([25ee6b2](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/25ee6b2c8097d04eb5d8a942ff706529ce954eb7))
+
+
+### Bug Fixes
+
+* demo ([928e28f](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/928e28f952598c0cfc011230963d979f6d7b4e23))
+* demo ([15b3acf](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/15b3acfb6c144ff03d9f6be4147e6928b2beb0ae))
+* fix deps ([1fe3e55](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/1fe3e55cc75ec104f36db867a5dbb812287ea89b))
+* fix deps ([bbf003b](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/bbf003b7935d0d683a7d7b99b3f43ae3000df245))
+* gitignore ([816a0c5](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/816a0c5034cb072384eeed6f0086df3e770675ca))
+* js ([b4215bb](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/b4215bb254b311535a44d896294d7a5319c10b13))
+* js ([60b9353](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/60b935344ce21c65ab7e00da2fadaf47c37ab0a7))
+
+### [16.0.1](https://github.com/ivanluc2002/2021-23.SA.UFS07/compare/v16.0.0...v16.0.1) (2022-05-13)
+
+
+### Bug Fixes
+
+* js ([6f698df](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/6f698dfdaeb8fe9444228657eac3b4f4c98152be))
+
+## [16.0.0](https://github.com/ivanluc2002/2021-23.SA.UFS07/compare/c1a279e912cd8363da17ba0ea642c8951e355d8e...v16.0.0) (2022-05-13)
+
+
+### ⚠ BREAKING CHANGES
+
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+
+### Features
+
+* add deploy ([61e0853](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/61e0853f034eb74af5318d8d9e27e4f764347631))
+* build pipeline ([cea984c](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/cea984cfd35167b71c85fda484ef79c42b7f01c7))
+* deploy ([bc16e10](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/bc16e10e002372f89b81f297767bfd5c68a94e0b))
+* deploy ([0c8adc7](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/0c8adc75510d81585fbf8380093f1ccb622cad7e))
+* deploy ([4b54971](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/4b54971d372daf3febb1c95e559f51c60915e474))
+* deploy ([a9a651c](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/a9a651c097ccf2becad3f87444e74fa6f745f7f4))
+* deploy ([7fa996b](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/7fa996bab727b54fb968a2618b09d4cd33c1093b))
+* deploy ([e6c13ee](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/e6c13eec7cb3b243c0edce9b97dded615f746e5e))
+* deploy ([9f509f6](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/9f509f62b919ebc05ae9fb92ea9d8f4f6ef15a50))
+* deploy ([965c192](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/965c19208e18d602a2bfd61462ae44d6bf718058))
+* deploy ([6fff204](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/6fff204147b8a5228295af84a143dcd68cce6514))
+* deploy ([c83fd31](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/c83fd3163d33a84abf473d9083bf53d01df49369))
+* enable github actions ([a43c767](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/a43c76754077ddc282600658bc02c4b35987568b))
+* feat ([75f91ca](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/75f91ca7ac6a1edce3b40cf4ac0d5d86a812c67b))
+* feat ([efd0d3f](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/efd0d3ff2d842528c466443ac270d2ab00d8e25a))
+* feat ([3304da0](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/3304da00b78ed6c42f688d9220ceccfc6d0cbb55))
+* feat ([3be1a22](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/3be1a2205e2bebe4cdb7105e399e3007866e6da0))
+* feat ([05af868](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/05af868583bc1bb31f4a3727795a2a6641b919d0))
+* feat ([cba6cff](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/cba6cff7e0a3d65917e10df7158691d493b23934))
+* feat ([d575e22](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/d575e2211eb35e3c24efd17db6c51c229f6ff42a))
+* feat ([b6b7e5a](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/b6b7e5a5a1b03f0bd4c4bc9527c91e4e5a53e772))
+* feat ([9efd16b](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/9efd16bfba218af39397e6b9252ff3e2d2af0ae2))
+* progetto-frontend-vanilla ([c1a279e](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/c1a279e912cd8363da17ba0ea642c8951e355d8e))
+* surge sh ([d925570](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/d92557021c9a40433e31421b4e8861b7978337ef))
+* surge sh ([defd60b](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/defd60bf6647e79d1c23eea145c510e858948220))
+* surge sh ([decfb65](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/decfb652c24242fda078636d37913d407237a9d8))
+* surge sh ([fa8fb14](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/fa8fb149905631720ef2bb21841ccf44c818d08c))
+* surge sh ([c0d7027](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/c0d7027518c04f853e4213c067d4126f301a652e))
+* surge sh ([daca115](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/daca11555a5278b9fefb607ffacc50a2990840a4))
+* update gitpod file to point my repo ([ffed959](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/ffed959c7c0380436e6ddeafea20a0faa530993c))
+* vscode as default editor for git ([5b374ed](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/5b374ed29a9b9491aeab4b88fcde8c2c72d6bec3))
+
+
+### Bug Fixes
+
+* deploy ([cfbeb9a](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/cfbeb9a2e1dae86639ee6406ee197243441360cd))
+* js ([b35439e](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/b35439e0969cfa70a5fd7c0f7393ad444e35bef0))
+* js ([1ad981b](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/1ad981bb30fc049b96eb66efbfb676b159338d5c))
+* split NVM setup and npm build ([c3c20b7](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/c3c20b774a92b9d0e19c113b1567ef420f31d60d))
+* test ([b386125](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/b3861255b88f25c95d6b8e83550435bbd93ffe55))
+* test ([bbabe44](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/bbabe44802afcefaa68e001f9bd99f09274d6f26))
+* test ([1598d10](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/1598d104a5341c8190233c14f6d6ef7fde378c8f))
+* test ([6be673b](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/6be673b825f59ad50e2622357824954f738c745c))
+* test ([c24a6e2](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/c24a6e2c9dcdbbd1649eb89ffd3fbc879e52df57))
+* test ([ce4b704](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/ce4b704b8876bd18925f678c5b327b183029e0c4))
+* test ([e4d0d28](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/e4d0d2843f5a7a40db809fb49f13f4e335cf2108))
+* test ([fad43d4](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/fad43d4a5c480f8a4426febaaa61605704144930))
+* test ([4113489](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/41134896b3834fa47e50327fc279631c4a0389a7))
+* test ([cb25322](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/cb253224f66398c40d45425a0451bbd314eb85d5))
+* use the right foldername ([afb501f](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/afb501ff171a90f34918816f1f6146b1864fc0a3))
+
 ### [15.0.18](https://github.com/ivanluc2002/2021-23.SA.UFS07/compare/v15.0.17...v15.0.18) (2022-05-13)
 
 ### [15.0.17](https://github.com/ivanluc2002/2021-23.SA.UFS07/compare/v15.0.16...v15.0.17) (2022-05-13)
