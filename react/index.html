@@ -7,10 +7,7 @@
 
     <script src="https://unpkg.com/react@16.14.0/umd/react.production.min.js"></script>
     <script src="https://unpkg.com/react-dom@16.13.0/umd/react-dom.production.min.js"></script>
-<<<<<<< HEAD
-=======
     <script src="https://unpkg.com/babel-standalone@6.26.0/babel.js"></script>
->>>>>>> 33bca6d... feat(react-101): React JSX
   </head>
 
   <body>
@@ -21,31 +18,21 @@
         class Hello extends React.Component {
             render() {
                 return (
+                  <div>
                     <div>{`toWhat: ${this.props.toWhat}`}</div>
+                    <Button.Button label="ciaooo" />
+                    <Button.Button label="ciaooo" />
+                    <Button.Button label="ciaooo" />
+                    <Button.Button label="ciaooo" />
+
+                  </div>
                 );
             }
         }
-
-<<<<<<< HEAD
-        var aReactDivProps = {
-            toWhat: 'prop value'
-        };
-        var aReactDiv = React.createElement(
-            Hello, // a class that extends React.Component as a element type
-            aReactDivProps, // props for the component
-            null // children
-        );
-
-        var reactContainer = document.getElementById('reactContainer');
-        ReactDOM.render(
-            aReactDiv, // a react component
-            reactContainer // the react container
-=======
         var reactContainer = document.getElementById("reactContainer");
         ReactDOM.render(
             <Hello toWhat={'prop value'} />,
             reactContainer
->>>>>>> 33bca6d... feat(react-101): React JSX
         );
     </script>
   </body>
