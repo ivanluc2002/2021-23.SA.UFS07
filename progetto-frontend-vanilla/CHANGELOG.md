@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [17.1.2](https://github.com/ivanluc2002/2021-23.SA.UFS07/compare/v17.1.1...v17.1.2) (2022-05-24)
+
+
+### Bug Fixes
+
+* folder ([9e65e32](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/9e65e325f03f1d9f23057b92cf5b6275fb57cc13))
+
 ### [17.1.1](https://github.com/ivanluc2002/2021-23.SA.UFS07/compare/v17.1.0...v17.1.1) (2022-05-24)
 
 
