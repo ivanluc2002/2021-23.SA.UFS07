@@ -2,6 +2,162 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [17.1.0](https://github.com/ivanluc2002/2021-23.SA.UFS07/compare/v17.0.0...v17.1.0) (2022-05-24)
+
+
+### Features
+
+* add npx surge deploy step ([95822ab](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/95822abc1d37c64a474a7f3c82c684067872b513))
+* add Public surge.sh URL ([44109dc](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/44109dcd8e2529025ec1884cebdab69cd9ee6531))
+* added myself ([d735d63](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/d735d630afc8f2016644daf57ba209495e628f61))
+* build pipeline ([022393d](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/022393de7cdc25171d4e5a87d1d42785179f5a10))
+* **changelog:** add standard-version package ([3689008](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/3689008286b3b7e16b04f6140d60d083d71733f9))
+* **changelog:** add standard-version release script ([2d26454](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/2d2645415632b3a7e30e400ab3934534f7c3d944))
+* **components-pipeline-1:** init folder structure ([2e96d31](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/2e96d319fffe177ee08ac0215fda15f7a9520f32))
+* **components-pipeline-1:** init folder structure ([147d0b2](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/147d0b2dd1b19e3a01d8ab1d1785c0c029fb462e))
+* **components-pipeline-1:** init folder structure ([e1fba3a](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/e1fba3a073db3a564d2acfc16bbea77ae7eb89e9))
+* **components-pipeline-1:** move button to atoms ([8576418](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/85764184a57768ffbfa2237f452d7435bf5ee496))
+* **components-pipeline-1:** move button to atoms ([11165c6](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/11165c64d1bed4bc349c8a568cb2a68eea752a5e))
+* **components-pipeline-1:** move header and button ([1ac1ac1](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/1ac1ac1ff7e18d652df15d7e179439a51861828f))
+* **components-pipeline-1:** move header to molecules ([3a0477d](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/3a0477df6b5153e0cdb7943a11ad9c67f0d1270c))
+* **components-pipeline-1:** move header to molecules ([fc102eb](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/fc102eb52577cf954d468593d7746c4b02f012cc))
+* **components-pipeline-1:** move page to templates ([f1b7268](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/f1b72687ece88794800e3c6ff205a773388fe283))
+* **components-pipeline-1:** move page to templates ([6106427](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/61064274640f4f76de485ce7390b53e21b16dd30))
+* **components-pipeline-1:** move page to templates ([d4516da](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/d4516da14734af3695295e17e186deb67ecb53d6))
+* **components-pipeline-2a:** babel setup ([4745d99](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/4745d99a8f32a1290b294462f13e841586f080de))
+* **components-pipeline-2a:** CI with artifact ([356edf1](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/356edf1a0cf2c5e5f8cb04939783ef1fed5515d1))
+* **components-pipeline-2a:** empty babel production env ([4228d54](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/4228d54ce70a7a6dad77c2402a663e51c2412cb2))
+* **components-pipeline-2a:** empty babel production env ([51a470d](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/51a470d0d418b6d52e23f922a585a129bb6f928d))
+* **components-pipeline-2a:** setup babelrc development env ([21f0446](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/21f044654bf8b942cad180f49e3af04a5572c9cc))
+* **components-pipeline-2a:** setup babelrc development env ([dd0145c](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/dd0145cdf676cb8f45529a74be12e877b9766952))
+* **components-pipeline-2a:** shared react babel preset ([68f7901](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/68f790165deb91e840948f2c540e96b255f5d245))
+* **components-pipeline-2a:** shared react babel preset ([2bc34a4](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/2bc34a4d5f7299eb8fe1a11bda00cff10a85bbcd))
+* **components-pipeline-3:** add standard-version ([9b9e605](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/9b9e605a753f4d9b1b48345b1070ceee36d0c252))
+* **components-pipeline-3:** npm setup for publish ([a078ebf](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/a078ebf0ef2acdce06be3f1fcf53256632bb85f1))
+* **components-pipeline-3:** use our published package ([ee77e1d](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/ee77e1d3474b6a94fc5a276c19c4cd05ea29ac84))
+* **design-system:** add chromatic ([589daa4](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/589daa4cf6782c99f93107d74fd075f1ccdb771d))
+* **design-system:** init ([17fb4d7](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/17fb4d7b400589519e303debf4cd5fe2d7be4872))
+* **design-system:** sb init ([4bc8fb9](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/4bc8fb99be19eb1c04a0a582e53bbad9ab487d97))
+* enable github actions ([c00d306](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/c00d306389c991bd3c88cb80cb0d43653c9850a1))
+* progetto-frontend-vanilla ([249abb8](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/249abb80f03defc5a6970ba93c4b97e23c1ba773))
+* **react-101:** react jsx ([76cddf4](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/76cddf4d81efff38df69e4eb7a7943cf97784985))
+* **react-101:** React JSX ([9c51209](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/9c51209573966d41253d0071348ab37940094903))
+* **react-101:** react no jsx sample ([9556e70](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/9556e70b872324438d75e7e465b9862bc783f748))
+* **react-101:** react no jsx sample ([33cad66](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/33cad6612a398b007cda15eb53a7e8d7c2791ea6))
+* **react-101:** React renderToStaticMarkup ([ddf53a9](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/ddf53a9620727c923d5d601030f3b3089545a7b2))
+* **react-101:** react.component ([1a2998f](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/1a2998f648d31da04a36c05c9874002e1a1ffacd))
+* **react-101:** React.Component ([7fbb7a6](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/7fbb7a67db2af0a9a7799011013bc95bcc83592a))
+* **react-101:** readme ([ed96b4b](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/ed96b4b82b998eb0241e317645e869d9d354f502))
+* **react-101:** simple html boilerplate ([09c794f](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/09c794f0907ab4cf20952073c1d953908828c6a2))
+* **react-101:** simple html boilerplate ([23b9f9f](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/23b9f9f58f2a46f36694a52ef40ef7a92161ab10))
+* update gitpod file to point my repo ([8d22a5b](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/8d22a5b5c088b80fc9355bb8c4229c900b1d7296))
+* vscode as default editor for git ([78407e2](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/78407e2456e561892d3046cd1051e7844ceb2c52))
+
+
+### Bug Fixes
+
+* all ([0103edc](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/0103edc4d34093dab8169a05485ad5afde0058b2))
+* all ([566fe5e](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/566fe5e53bda4d9ce5c01464e7ee73f5327408aa))
+* **ci-changelog:** run default workflow on every commit ([b9d1234](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/b9d1234578c8cd5a465152c57786672c0424bfb7))
+* **components-pipeline-2b:** babel CI with artifacts ([61b2adb](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/61b2adbd85b021e4b9a043e6a2de326a0b9ff66a))
+* **components-pipeline-2b:** babel remove prop type plugin ([448f311](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/448f31179e2a62202da7658787e3c9240ce168ce))
+* **components-pipeline-2b:** fix umd global case of React ([ea0aff6](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/ea0aff6fb658e4588e23bb66c45140c0f3c52a83))
+* **design-system:** fix deps ([6cb68fd](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/6cb68fd4a22b7982395863b8a15d5e9b2335b903))
+* **design-system:** ignore chromatic build-storybook logs ([71b6083](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/71b6083c96451f7666f0b63623b9d2f22756fb60))
+* **design-system:** ignore node_modules ([869b95d](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/869b95dd86cd20e82e10934be2fae30b3719142a))
+* **design-system:** ignore storybook-static ([0544ed8](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/0544ed82c476f79716235f6489be096e8b853bc0))
+* fix ([e4a283e](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/e4a283e295370b80e09fc03e42abc28f002b5af5))
+* fix ([88e47a3](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/88e47a3b642f1c777b0ff1e12ea8002da4decd7b))
+* fix ([2a2eda1](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/2a2eda115323428cbbdea9203347a46fa0331a30))
+* **gitpod:** reusable setup scripts ([96b9e41](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/96b9e417566d168bcfef473a5e5b44c227038120))
+* index ([94d05ff](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/94d05ff5e092ae376444a92c90f62752d2c8c3f3))
+* index ([996d8d9](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/996d8d9b90017097b2852dfb2ae49b714d373167))
+* index ([985062e](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/985062e0cb5717cd303dc8fb2df18dd9b9f241e0))
+* js ([19944af](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/19944afc9cd72d0040f3a05b6d688c5a09c60fe6))
+* json ([8892ea4](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/8892ea444ab8454de3934f0c2c06a33723448538))
+* non asci dash ([76a0aaa](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/76a0aaa0cba72ea7e70bf1e63814d75ef1ceaa7d))
+* split NVM setup and npm build ([8d859f0](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/8d859f063b822fd0268fa984c8dd959c5440335c))
+* use the right foldername ([433d0a2](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/433d0a26804332a99bb54e7a8ae6ad1f8576f10d))
+
+### [1.5.4](https://github.com/ivanluc2002/2021-23.SA.UFS07/compare/v1.3.5...v1.5.4) (2022-05-13)
+
+### [1.5.3](https://github.com/ivanluc2002/2021-23.SA.UFS07/compare/v1.3.4...v1.5.3) (2022-05-13)
+
+### [1.5.2](https://github.com/ivanluc2002/2021-23.SA.UFS07/compare/v1.5.1...v1.5.2) (2022-05-13)
+
+### [1.5.1](https://github.com/ivanluc2002/2021-23.SA.UFS07/compare/v1.5.0...v1.5.1) (2022-05-13)
+
+## [1.5.0](https://github.com/ivanluc2002/2021-23.SA.UFS07/compare/v16.0.1...v1.5.0) (2022-05-13)
+
+
+### Features
+
+* added myself ([7672ce2](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/7672ce2385aa8e1922f3e925487b1149f2cea33e))
+* agginto Rabosio a studentrs ([32f3250](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/32f32504aa9e2edbc764864d523a9bf48dc45adc))
+* **design-system:** add chromatic ([f3cd7ce](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/f3cd7ce6fbba0a9e4c6b95e4cb932703c8afc131))
+* **design-system:** init ([8da73b4](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/8da73b429c9d4f158bbd0cc6853ce9b2d5a7a79b))
+* **design-system:** sb init ([f6e1e6b](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/f6e1e6b505ef58a80b6b24bb46344a1adb1ae3c2))
+
+
+### Bug Fixes
+
+* **design-system:** fix deps ([74878b1](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/74878b1be01f47ddb2a77f4c0258175b56101aa6))
+* **design-system:** ignore chromatic build-storybook logs ([a25fe89](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/a25fe890dcf794405e9efd4010f84c17676113ef))
+* **design-system:** ignore node_modules ([74bf64e](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/74bf64ea44d415ddf1624dfec545b1bb3e28f05d))
+* **design-system:** ignore storybook-static ([3172bd0](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/3172bd04f78042e937eccb9036e69525994e25b7))
+
+### [1.2.1](https://github.com/ivanluc2002/2021-23.SA.UFS07/compare/v1.2.0...v1.2.1) (2022-05-09)
+
+
+### Bug Fixes
+
+* non asci dash ([fd0b551](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/fd0b5517cc52743ac0e14c3b71715f058fe27ecf))
+
+## [1.2.0](https://github.com/ivanluc2002/2021-23.SA.UFS07/compare/v1.1.3...v1.2.0) (2022-05-09)
+
+
+### Features
+
+* add npx surge deploy step ([bbd3454](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/bbd3454b25c09ba7a605f55a841df68951589016))
+* add Public surge.sh URL ([c5d247c](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/c5d247c8693c06bd5dc7b1da05807780094c12c9))
+
+### [1.1.3](https://github.com/ivanluc2002/2021-23.SA.UFS07/compare/v1.1.2...v1.1.3) (2022-05-09)
+
+
+### Bug Fixes
+
+* **ci-changelog:** run default workflow on every commit ([4e50da3](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/4e50da33d1546731e9e772ddd35546e0d08ab8ac))
+
+### [1.1.2](https://github.com/ivanluc2002/2021-23.SA.UFS07/compare/v1.1.1...v1.1.2) (2022-05-09)
+
+### [1.1.1](https://github.com/ivanluc2002/2021-23.SA.UFS07/compare/v1.1.0...v1.1.1) (2022-05-09)
+
+## [1.1.0](https://github.com/ivanluc2002/2021-23.SA.UFS07/compare/v1.0.0...v1.1.0) (2022-05-09)
+
+
+### Features
+
+* **changelog:** add standard-version release script ([b67d32f](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/b67d32f1a80492f41040762ed98c102f610a9788))
+
+## [1.0.0](https://github.com/ivanluc2002/2021-23.SA.UFS07/compare/627ee001353cac65d1a8eff1ac28822b238df345...v1.0.0) (2022-05-09)
+
+
+### Features
+
+* build pipeline ([c4090b1](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/c4090b11176c7317eefb4d297b75a1fdcafb460c))
+* **changelog:** add standard-version package ([cad2990](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/cad29909284625a37fee728ce31fd3a1d34949ed))
+* enable github actions ([8257bc9](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/8257bc947cfcd7fc389a75d600f68a84770487bd))
+* progetto-frontend-vanilla ([627ee00](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/627ee001353cac65d1a8eff1ac28822b238df345))
+* update gitpod file to point my repo ([a3fed0c](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/a3fed0c1a548f5e1d340ec3f17e7f790e7b55674))
+* vscode as default editor for git ([4483d1f](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/4483d1f4d8a031b7c725d9c3bcef8bdd83bf703b))
+
+
+### Bug Fixes
+
+* **gitpod:** reusable setup scripts ([c1bc0c8](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/c1bc0c87816030693d6fbd181c7a6e8f590bbb44))
+* split NVM setup and npm build ([9f01b83](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/9f01b83506dc30dcaa0dc74f2a5966020b5b3cad))
+* use the right foldername ([f10c7b1](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/f10c7b1c80a7b84bab85a9d886f3deaa58922d5c))
+
 ## [17.0.0](https://github.com/ivanluc2002/2021-23.SA.UFS07/compare/v1.3.8...v17.0.0) (2022-05-20)
 
 
