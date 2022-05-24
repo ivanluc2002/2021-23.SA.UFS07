@@ -5,6 +5,7 @@ vscode:
     - https://github.com/bendera/vscode-commit-message-editor/releases/download/v0.19.7/commit-message-editor-0.19.7.vsix
 tasks:
   - name: GitHub CLI
+<<<<<<< HEAD
     before: echo "Install GitHub CLI (gh)"
     init: echo "No init steps"
     command: .gitpod/scripts/github-cli.sh
@@ -12,3 +13,12 @@ tasks:
     before: echo "VSCode will be used as commit and rebase interactive editor"
     init: echo "No init steps"
     command: .gitpod/scripts/vscode-as-git-editor.sh
+=======
+    before: curl -fsSL https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo dd of=/usr/share/keyrings/githubcli-archive-keyring.gpg
+    init: echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main" | sudo tee /etc/apt/sources.list.d/github-cli.list > /dev/null
+    command: sudo apt update && sudo apt install -y gh
+  - name: VSCode as Git editor
+    before: echo "VSCode will be used as commit and rebase interactive editor"
+    init: git config --global sequence.editor "code --wait"
+    command: git config --global core.editor "code --wait"
+>>>>>>> 566fe5e53bda4d9ce5c01464e7ee73f5327408aa

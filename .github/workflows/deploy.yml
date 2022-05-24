@@ -6,7 +6,18 @@ on:
 jobs:
   build:
       uses: ./.github/workflows/github-actions-demo.yml
+<<<<<<< HEAD
       secrets: inherit
+=======
+<<<<<<< HEAD
+      secrets: inherit
+=======
+<<<<<<< HEAD
+      secrets: inherit
+=======
+>>>>>>> 52c330a603a2659b838ccba2cfceb8c130296001
+>>>>>>> e4a283e295370b80e09fc03e42abc28f002b5af5
+>>>>>>> 566fe5e53bda4d9ce5c01464e7ee73f5327408aa
   deploy:
     runs-on: ubuntu-latest
     needs: [build]
@@ -23,6 +34,18 @@ jobs:
           cat dist/CHANGELOG.md
       - name: Deploy on Surge.sh
         env:
+<<<<<<< HEAD
           SURGE_TOKEN: ${{ secrets.SURGE_TOKEN }}
           SURGE_LOGIN: ${{ secrets.SURGE_LOGIN }}
         run: npx -yes surge ./dist voiceless-silk.surge.sh
+=======
+<<<<<<< HEAD
+          SURGE_TOKEN: ${{ secrets.SURGE_TOKEN }}
+          SURGE_LOGIN: ${{ secrets.SURGE_LOGIN }}
+        run: npx -yes surge ./dist voiceless-silk.surge.sh
+=======
+          SURGE_TOKEN: ${{ secrets.SURGE_TOKEN  }}
+          SURGE_LOGIN: ${{ secrets.SURGE_LOGIN  }}
+        run: npx -yes surge ./dist gorgeous-bulb.surge.sh
+>>>>>>> e4a283e295370b80e09fc03e42abc28f002b5af5
+>>>>>>> 566fe5e53bda4d9ce5c01464e7ee73f5327408aa
