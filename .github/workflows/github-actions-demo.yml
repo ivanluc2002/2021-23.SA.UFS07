@@ -25,10 +25,10 @@ jobs:
       - run: echo "🍏 This job's status is ${{ job.status }}."
       - name: Install NVM
 <<<<<<< HEAD
-        working-directory: progetto-frontend-vanilla
+        working-directory: progettofrontendvanilla
 =======
 <<<<<<< HEAD
-        working-directory: progetto-frontend-vanilla
+        working-directory: progettofrontendvanilla
 =======
         working-directory: progettofrontendvanilla
 >>>>>>> e4a283e295370b80e09fc03e42abc28f002b5af5
@@ -43,10 +43,10 @@ jobs:
           nvm use
       - name: Build
 <<<<<<< HEAD
-        working-directory: progetto-frontend-vanilla
+        working-directory: progettofrontendvanilla
 =======
 <<<<<<< HEAD
-        working-directory: progetto-frontend-vanilla
+        working-directory: progettofrontendvanilla
 =======
         working-directory: progettofrontendvanilla
 >>>>>>> e4a283e295370b80e09fc03e42abc28f002b5af5
