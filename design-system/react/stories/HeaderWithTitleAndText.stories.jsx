@@ -1,7 +1,15 @@
 import React from 'react';
 import { within, userEvent } from '@storybook/testing-library';
 
+<<<<<<< HEAD
 import { HeaderWithTitleAndText } from '../src/templates/headerWithTitleAndText/headerWithTitleAndText';
+=======
+<<<<<<< HEAD
+import { HeaderWithTitleAndText } from '../src/templates/headerWithTitleAndText/HeaderWithTitleAndText';
+=======
+import { HeaderWithTitleAndText } from '../src/templates/headerWithTitleAndText/headerWithTitleAndText';
+>>>>>>> e4a283e295370b80e09fc03e42abc28f002b5af5
+>>>>>>> 566fe5e53bda4d9ce5c01464e7ee73f5327408aa
 
 export default {
   title: 'Example/Templates/HeaderWithTitleAndText',
