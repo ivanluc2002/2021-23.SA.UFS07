@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.3.0](https://github.com/ivanluc2002/2021-23.SA.UFS07/compare/ds1.2.1...ds1.3.0) (2022-05-27)
+
+
+### Features
+
+* Atom input ([1720df3](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/1720df3b6343f0ec00274eeb8379a3b3665b5f2a))
+
 ### [1.2.1](https://github.com/ivanluc2002/2021-23.SA.UFS07/compare/ds1.2.0...ds1.2.1) (2022-05-24)
 
 ## 1.2.0 (2022-05-24)
