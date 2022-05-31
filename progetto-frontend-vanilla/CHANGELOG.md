@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.7.0](https://github.com/ivanluc2002/2021-23.SA.UFS07/compare/v1.6.1...v1.7.0) (2022-05-31)
+
+
+### Features
+
+* added export ([c3540ee](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/c3540ee217f01774444b5c8afeafe0eafd17b190))
+
 ### [1.6.1](https://github.com/ivanluc2002/2021-23.SA.UFS07/compare/v1.6.0...v1.6.1) (2022-05-31)
 
 
