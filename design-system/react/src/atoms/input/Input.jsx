@@ -4,15 +4,16 @@ import PropTypes from 'prop-types';
 /**
  * Primary UI component for user interaction
  */
-export const Input = ({placeholder, onClick, type,onData}) => {
+export const Input = ({isValid, placeholder, onClick, type,onData}) => {
   function onInput(InputEvent){
     console.log("input.onInput", InputEvent);
     if(typeof onData ==="function"){
       onData(InputEvent.target.value)
     }
     }
-    
+    const message= isValid? "valore valido" : "valore non corretto"
   return (
+    <>
     <input
         
         onClick={onClick}
@@ -22,6 +23,8 @@ export const Input = ({placeholder, onClick, type,onData}) => {
     >
       
     </input>
+    {isValid===undefined?null:message}
+     </>
   );
 };
 
