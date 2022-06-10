@@ -18,9 +18,11 @@ const Template = (args) => <Input {...args} />;
 export const Text = Template.bind({});
 // More on args: https://storybook.js.org/docs/react/writing-stories/args
 Text.args = {
-  type: 'text',
-  placeholder:'text',
+  type: 'radio',
+  placeholder:undefined,
   onData: undefined,
   isValid: undefined,
+  label: "a label ",
+  id:"html",
 };
 
