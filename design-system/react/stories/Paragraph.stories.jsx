@@ -14,7 +14,7 @@ export default {
 export const Paragraphprova = Template.bind({});
 Paragraphprova.args = {
   label:"siuuuuu",
-  testo:<Text label={'ciao mi chiamo ivan e sto imparando ad usare react'}></Text>
+  testo:<><Text label={'ciao mi chiamo ivan e sto imparando ad usare react'}></Text><Text label={' wow che cosa bella'}></Text></>
   
   
 };
