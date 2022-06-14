@@ -8,6 +8,7 @@ export const Text = ({ label, onClick, type }) => {
      
     >  
     ciao
+    
     </span>
   );
 };
