@@ -7,7 +7,7 @@ const App = () => (
     <div>
         <h1>Hello React</h1>
         <Button label={"gasssss"} />
-        <Input />
+        <Input label={"provaprova"}/>
     </div>
 );
 
