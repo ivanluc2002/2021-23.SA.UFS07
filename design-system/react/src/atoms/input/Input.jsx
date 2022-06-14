@@ -46,7 +46,7 @@ Input.propTypes = {
 };
 
 Input.defaultProps = {
-  type: "text",
+  type: "radio",
   onData:undefined,
   isValid:undefined,
   label:undefined,
