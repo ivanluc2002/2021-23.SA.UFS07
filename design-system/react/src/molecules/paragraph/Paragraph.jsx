@@ -7,7 +7,8 @@ export const Paragraph = ({ label, testo}) => {
     <span
      
     >  
-    {label}
+    {label},
+    {testo}
     </span>
   );
 };

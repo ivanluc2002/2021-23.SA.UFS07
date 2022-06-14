@@ -1,5 +1,5 @@
 import React from 'react';
-
+import { Text } from '../src/atoms/text/Text';
 import { Paragraph } from '../src/molecules/paragraph/Paragraph';
 export default {
     title: 'Example/molecules/Paragraph',
@@ -9,12 +9,12 @@ export default {
      
     },
   };
-  const Template = (args) => <Paragraph {...args} />;
+  const Template = (args) => <Paragraph {...args} ></Paragraph>;
 
 export const Paragraphprova = Template.bind({});
 Paragraphprova.args = {
   label:"siuuuuu",
-  testo:"ciao come stai"
+  testo:<Text label={'ciao mi chiamo ivan e sto imparando ad usare react'}></Text>
   
   
 };
