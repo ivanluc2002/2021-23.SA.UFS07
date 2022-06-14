@@ -15,9 +15,9 @@ export default {
 // More on component templates: https://storybook.js.org/docs/react/writing-stories/introduction#using-args
 const Template = (args) => <Input {...args} />;
 
-export const Text = Template.bind({});
+export const Check = Template.bind({});
 // More on args: https://storybook.js.org/docs/react/writing-stories/args
-Text.args = {
+Check.args = {
   type: 'radio',
   placeholder:undefined,
   onData: undefined,

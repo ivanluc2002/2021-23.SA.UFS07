@@ -2,13 +2,12 @@ import React from 'react';
 import PropTypes from 'prop-types';
 
 
-export const Text = ({ label, onClick, type }) => {
+export const Text = ({ label }) => {
   return (
     <span
      
     >  
-    ciao
-    
+    {label}
     </span>
   );
 };
@@ -17,11 +16,12 @@ Text.propTypes = {
   /**
    * Button contents
    */
-
+   label: PropTypes.string,
 };
 
 Text.defaultProps = {
   onClick: undefined,
   type: 'text',
+  
   
 };

@@ -13,7 +13,7 @@ export default {
 
 export const Textprova = Template.bind({});
 Textprova.args = {
-  
+  label:"gang",
   
   
 };
