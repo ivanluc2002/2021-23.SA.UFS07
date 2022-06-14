@@ -1,6 +1,6 @@
 import React from "react";
 import {Button} from "luccoreact/atoms/button/Button";
-import { Input } from '../src/atoms/input/Input';
+import { Input } from '../design-system/react/src/atoms/input/Input';
 
 const App = () => ( 
     <div>
