@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.8.1](https://github.com/ivanluc2002/2021-23.SA.UFS07/compare/v1.8.0...v1.8.1) (2022-06-14)
+
+
+### Bug Fixes
+
+* input ([d041895](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/d041895f3d384e9a4a05ee1a8bea25023f23da4b))
+* input isvalid function ([9e14c44](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/9e14c449d255ec2e3a0a29d32937a06186806c26))
+* package lock ([2c344d2](https://github.com/ivanluc2002/2021-23.SA.UFS07/commit/2c344d2def2cf4c198b34d31c350ae6d59a40644))
+
 ## 1.8.0 (2022-06-10)
 
 
