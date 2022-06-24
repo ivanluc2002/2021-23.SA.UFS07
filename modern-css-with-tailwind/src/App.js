@@ -35,9 +35,9 @@ function App() {
       <br/><br/>
 
 
-      <div class="flex justify-center text-purple-300 bg-gray-600 md:bg-pink-600 border-4 border-black sm:bg-yellow-500 sm:border-8 sm:border-red-700 lg:bg-green-600 lg:border-4 lg:border-blue-700 sm:font-bold ">
+      <div class="flex justify-center animate-bounce text-purple-300 bg-gray-600 md:bg-pink-600 border-4 border-black sm:bg-yellow-500 sm:border-8 sm:border-red-700 lg:bg-green-600 lg:border-4 lg:border-blue-700 sm:font-bold ">
         <div class="mx-4 order-last hidden md:block " >
-          <img src={music} size="100x100" alt="Logo" />;
+          <img class="lg:animate-spin" src={music} size="100x100" alt="Logo" />;
         </div>
         <div class="mx-4 self-center">
           <h1>GANG</h1>
