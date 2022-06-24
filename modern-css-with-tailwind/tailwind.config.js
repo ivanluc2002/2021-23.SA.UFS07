@@ -10,10 +10,22 @@ module.exports = {
   purge: ['./src/**/*.{js,jsx,ts,tsx}', './public/*.html'],
   darkMode: false, // or 'media' or 'class'
   theme: {
-    extend: {},
+    extend: {
+      screens:{
+        md:'800px'
+      },
+      colors:{
+        "purple":{
+          "300":"#33ff99"
+        }
+      }
+      
+    },
   },
   variants: {
-    extend: {},
+    extend: {
+
+    },
   },
   plugins: [],
 }
